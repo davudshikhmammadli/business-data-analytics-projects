@@ -1,0 +1,1 @@
+This homework covered Cross-Selling/ Up-selling & Recommendation System. In the first section I found top 5 bundles for the given dataset by using mlxtend package. In the next section I applied KNN algorithm for collaborative filtering where it founded possible matches for inputted value. 
