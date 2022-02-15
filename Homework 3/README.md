@@ -1,0 +1,1 @@
+For this homework the task was to predict for company that if their employees are going to leave. Before spliting the data into training and test set, dataset needed some preprocessing. In order to predict the value for the test set I used DecisionTreeClassifier and confusion_matrix. Also, used graphviz from sklearn.tree for prediction. 
